@@ -1,0 +1,29 @@
+body{
+  background: blue;
+  color: white;
+  }
+  
+ a{
+	 color: pink;
+ }
+ a:hover{
+            color:black;
+			background:white;
+			text-decoration: none;
+ }
+ .anything{
+           margin-left:10px;
+ 
+ }
+ .gap_below{
+     margin-bottom:50px;
+ 
+ }
+ .greenlink:hover{
+	 color:green;
+	 background: blue;
+ }
+ h1{
+	 font-family:sans-serif;// or we can use monospace
+	 font-size:10pt;
+ }

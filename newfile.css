@@ -1,0 +1,9 @@
+h1{
+	font-family: 'Indie Flower', cursive;   /* we can get indie flower , cursive font */
+	text-align: center;
+	background-color: gold;         /* this gives gold background*/
+	border: solid red 2px;        /* this gives us solid red border with 2px*/
+	padding: 10px;
+	margin: 20px;          /* this gives us the margin of 20px*/
+	border-radius: 20px;  /* this is border radius of 20px*/
+}
